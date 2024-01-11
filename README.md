@@ -1,4 +1,4 @@
-# Memory Game
+# Memory Match
 
 This is a memory game built with React and Tailwind CSS. The game uses a deck of cards API to generate the cards for the game.
 
