@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository
 
 ```
-git clone <repository-url>
+git clone 'https://github.com/amyburgh/memory-match.git'
 ```
 
 2. Navigate into the project directory
