@@ -6,6 +6,8 @@ This is a memory game built with React and Tailwind CSS. The game uses a deck of
 
 These instructions will get you a copy of the project up and running on your local machine.
 
+![Memory-match Mockup](./memory-match-mockup.jpg)
+
 ### Prerequisites
 
 - Node.js
